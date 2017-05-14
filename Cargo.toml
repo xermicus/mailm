@@ -1,0 +1,9 @@
+[package]
+name = "mailm"
+version = "0.1.0"
+authors = ["Cyrill Leutwiler <bigcyrill@hotmail.com>"]
+
+[dependencies]
+rocket = "0.2.6"
+rocket_codegen = "0.2.6"
+fast_chemail = "0.9.5"
